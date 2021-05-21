@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Java_Fundamentals-Introduction-First_task" external.linked.project.path="$MODULE_DIR$/../../../../../Java Fundamentals/Introduction/First task" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="SDA_Java_EN1" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Java Fundamentals/Introduction/First task">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Java Fundamentals/Introduction/First task/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Java Fundamentals/Introduction/First task/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Java Fundamentals/Introduction/First task/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

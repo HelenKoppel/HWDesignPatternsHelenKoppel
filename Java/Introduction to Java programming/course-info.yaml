@@ -1,0 +1,12 @@
+title: Introduction to Java programming
+language: English
+summary: Tyto úkoly jsou míněny pro účastníky jednodenního kurzu Czechitas - Úvod
+  do Programování 1 JAVA (Introduction to programming 1 JAVA)
+programming_language: Java
+content:
+- Prvni Kroky
+- Promenne
+- Operace
+- Rozhodovani
+- Cykly
+mode: Study
